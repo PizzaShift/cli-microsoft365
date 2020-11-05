@@ -136,7 +136,7 @@
     "applicationinsights": "^1.8.5",
     "easy-table": "^1.1.1",
     "jmespath": "^0.15.0",
-    "node-forge": "^0.9.1",
+    "node-forge": "^0.10.0",
     "omelette": "^0.4.12",
     "request-promise-native": "^1.0.9",
     "semver": "^7.3.2",
